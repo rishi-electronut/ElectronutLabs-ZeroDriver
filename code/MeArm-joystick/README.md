@@ -2,7 +2,7 @@
 #####Joystick interface with ZeroDriver to control [MeArm](https://mime.co.uk/products/mearm/).
 
 The design files for MeARM are available at the link mentioned above. 
-Design file for the joystick pad has been inuded in the repository.
+Design file for the joystick pad has been included in the repository.
 
 ###Connections:
 **Joystick** | **ZeroDriver**
